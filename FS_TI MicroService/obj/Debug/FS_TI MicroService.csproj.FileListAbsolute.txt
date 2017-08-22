@@ -1,0 +1,9 @@
+d:\bpeg\documents\visual studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+d:\bpeg\documents\visual studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.pdb
+d:\bpeg\documents\visual studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
+d:\bpeg\documents\visual studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CoreCompileInputs.cache
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.dll
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\Interop.TrafInspAdmin.dll
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.ResolveComReference.cache

@@ -1,0 +1,19 @@
+{
+  "security": {
+    "key": "d88e6391-dfb5-4fa4-826e-324b5a04da2f",
+    "port": 17301
+  },
+  "fs": {
+    "rootFolder": "d:\\test\\",
+    "studentsFolder": "students\\",
+    "teacherFolder": "teachers\\",
+    "teacherXFolder": "teachers\\TEACHERS_ALL\\",
+    "teacherTempFolder": "fs-data\\temp\\",
+    "domain": "IAT"
+  },
+  "ti": {
+    "host": "10.100.3.4",
+    "login": "ti",
+    "password": "qweqwe123"
+  }
+}

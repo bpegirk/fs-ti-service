@@ -1,0 +1,65 @@
+﻿Выполняется установка сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Устанавливается служба FS and TI microserver...
+Служба FS and TI microserver успешно установлена.
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Выполняется фиксация сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Выполняется удаление сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Выполняется удаление источника EventLog FS and TI microserver.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Устанавливается служба FS and TI microserver...
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Выполняется откат для сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Восстанавливается исходное состояние журнала событий для источника FS and TI microserver.
+Выполняется удаление сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Выполняется удаление источника EventLog FS and TI microserver.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Выполняется удаление источника EventLog FS and TI microserver.
+Выполняется удаление службы FS and TI microserver из системы...
+Служба FS and TI microserver успешно удалена из системы.
+Выполняется установка сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Устанавливается служба FS and TI microserver...
+Служба FS and TI microserver успешно установлена.
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Выполняется фиксация сборки 'D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
