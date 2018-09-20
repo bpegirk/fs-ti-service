@@ -7,3 +7,17 @@ D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroServ
 D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
 D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\Interop.TrafInspAdmin.dll
 D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.ResolveComReference.cache
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csprojResolveAssemblyReference.cache
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI_MicroService.ProjectInstaller.resources
+D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.GenerateResource.Cache
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.pdb
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.dll
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csprojResolveAssemblyReference.cache
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.ResolveComReference.cache
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI_MicroService.ProjectInstaller.resources
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.GenerateResource.Cache
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CoreCompileInputs.cache
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
+C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb

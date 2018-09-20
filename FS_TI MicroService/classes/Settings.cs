@@ -32,7 +32,7 @@ namespace FS_TI_MicroService.classes
     class FS
     {
 
-        public string rootFolder = "\\\\fs\\";
+        public string rootFolder = "\\\\10.100.3.3\\";
         public string studentsFolder = "students\\";
         public string teacherFolder = "teachers\\";
         public string teacherXFolder = "teachers\\TEACHERS_ALL\\";
