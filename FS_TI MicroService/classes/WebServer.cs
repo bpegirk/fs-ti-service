@@ -4,10 +4,12 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Net.Sockets;
 using System.Security.AccessControl;
 using System.Threading;
 using System.Web;
+using System.Xml;
 
 namespace FS_TI_MicroService.classes
 {
@@ -452,6 +454,10 @@ namespace FS_TI_MicroService.classes
                     post_teacher_folder_t(param, p);
                 }
             }
+            else if (pathsegments[1].ToLower().Replace("/", "") == "fisgia")
+            {
+                post_fis_gia(param, p);
+            }
         }
 
         public override void handlePUTRequest(HttpProcessor p, StreamReader inputData)
@@ -705,6 +711,32 @@ namespace FS_TI_MicroService.classes
                 p.outputStream.Write("{\"status\":false}");
             }
 
+        }
+
+        private void post_fis_gia(string paramValue, HttpProcessor p)
+        {
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(HttpUtility.ParseQueryString(paramValue).Get("link"));
+            byte[] bytes;
+            bytes = System.Text.Encoding.ASCII.GetBytes(HttpUtility.ParseQueryString(paramValue).Get("request"));
+            request.ContentType = "text/xml; encoding='utf-8'";
+            request.ContentLength = bytes.Length;
+            request.Method = "POST";
+            Stream requestStream = request.GetRequestStream();
+            requestStream.Write(bytes, 0, bytes.Length);
+            requestStream.Close();
+            HttpWebResponse response;
+            response = (HttpWebResponse)request.GetResponse();
+            if (response.StatusCode == HttpStatusCode.OK)
+            {
+                Stream responseStream = response.GetResponseStream();
+                string responseStr = new StreamReader(responseStream).ReadToEnd();
+
+                p.outputStream.Write(responseStr);
+            }
+            else
+            {
+                p.outputStream.Write("{\"status\":false}");
+            }
         }
 
         private void post_student_folder(string paramValue, HttpProcessor p)
