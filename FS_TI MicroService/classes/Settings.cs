@@ -12,7 +12,7 @@ namespace FS_TI_MicroService.classes
         public Security security = new Security();
         public FS fs = new FS();
         public TI ti = new TI();
-
+        public FIS fis = new FIS();
 
         public static Settings Read()
         {
@@ -51,5 +51,10 @@ namespace FS_TI_MicroService.classes
     {
         public string key = "d88e6391-dfb5-4fa4-826e-324b5a04da2f";
         public int port = 17301;
+    }
+
+    class FIS
+    {
+        public string host = "http://10.0.3.1:8080/import/importservice.svc";
     }
 }
