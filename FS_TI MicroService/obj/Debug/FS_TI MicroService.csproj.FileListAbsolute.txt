@@ -21,3 +21,13 @@ C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroS
 C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CoreCompileInputs.cache
 C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
 C:\Develop\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\bin\Debug\FS_TI MicroService.pdb
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\bin\Debug\Newtonsoft.Json.dll
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI MicroService.csprojResolveAssemblyReference.cache
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.ResolveComReference.cache
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI_MicroService.ProjectInstaller.resources
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.GenerateResource.Cache
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
+E:\Users\iumag\Source\Repos\fs-ti-service1\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb

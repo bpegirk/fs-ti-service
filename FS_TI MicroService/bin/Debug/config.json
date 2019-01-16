@@ -15,5 +15,8 @@
     "host": "10.100.3.4",
     "login": "ti",
     "password": "qweqwe123"
+  },
+  "fis": {
+	"host": "http://priem.edu.ru:8000/import/importservice.svc/"
   }
 }

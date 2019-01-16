@@ -29,7 +29,7 @@ namespace FS_TI_MicroService.classes
         public Hashtable httpHeaders = new Hashtable();
 
 
-        private static int MAX_POST_SIZE = 10 * 1024; // 1MB
+        private static int MAX_POST_SIZE = 10 * 10 * 1024; // 1MB
 
         public HttpProcessor(TcpClient s, HttpServer srv)
         {
@@ -715,7 +715,8 @@ namespace FS_TI_MicroService.classes
 
         private void post_fis_gia(string paramValue, HttpProcessor p)
         {
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(HttpUtility.ParseQueryString(paramValue).Get("link"));
+            string link = Program.cfg.fis.host + HttpUtility.ParseQueryString(paramValue).Get("link");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(link);
             byte[] bytes;
             bytes = System.Text.Encoding.ASCII.GetBytes(HttpUtility.ParseQueryString(paramValue).Get("request"));
             request.ContentType = "text/xml; encoding='utf-8'";
