@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Security.AccessControl;
+using System.Text;
 using System.Threading;
 using System.Web;
 using System.Xml;
@@ -716,23 +717,14 @@ namespace FS_TI_MicroService.classes
         private void post_fis_gia(string paramValue, HttpProcessor p)
         {
             string link = Program.cfg.fis.host + HttpUtility.ParseQueryString(paramValue).Get("link");
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(link);
-            byte[] bytes;
-            bytes = System.Text.Encoding.ASCII.GetBytes(HttpUtility.ParseQueryString(paramValue).Get("request"));
-            request.ContentType = "text/xml; encoding='utf-8'";
-            request.ContentLength = bytes.Length;
-            request.Method = "POST";
-            Stream requestStream = request.GetRequestStream();
-            requestStream.Write(bytes, 0, bytes.Length);
-            requestStream.Close();
-            HttpWebResponse response;
-            response = (HttpWebResponse)request.GetResponse();
-            if (response.StatusCode == HttpStatusCode.OK)
+            WebClient cl = new WebClient();
+            cl.Encoding = Encoding.UTF8;
+            cl.Headers["Content-Type"] = "text/xml";
+            var data = cl.UploadString(link, HttpUtility.ParseQueryString(paramValue).Get("request"));
+          
+            if (!data.Equals(""))
             {
-                Stream responseStream = response.GetResponseStream();
-                string responseStr = new StreamReader(responseStream).ReadToEnd();
-
-                p.outputStream.Write(responseStr);
+                p.outputStream.Write(data);
             }
             else
             {
