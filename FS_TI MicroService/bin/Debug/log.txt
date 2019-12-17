@@ -1,0 +1,538 @@
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:352
+got headers
+get post data start
+starting Read, to_read=352
+read finished, numread=352
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:510
+got headers
+get post data start
+starting Read, to_read=510
+read finished, numread=510
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:510
+got headers
+get post data start
+starting Read, to_read=510
+read finished, numread=510
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:510
+got headers
+get post data start
+starting Read, to_read=510
+read finished, numread=510
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:510
+got headers
+get post data start
+starting Read, to_read=510
+read finished, numread=510
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:511
+got headers
+get post data start
+starting Read, to_read=511
+read finished, numread=511
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:374
+got headers
+get post data start
+starting Read, to_read=374
+read finished, numread=374
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:374
+got headers
+get post data start
+starting Read, to_read=374
+read finished, numread=374
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+Exception: System.Net.WebException: Время ожидания операции истекло
+   в System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   в System.Net.WebClient.UploadString(Uri address, String method, String data)
+   в FS_TI_MicroService.classes.MyHttpServer.post_fis_gia(String paramValue, HttpProcessor p) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 723
+   в FS_TI_MicroService.classes.MyHttpServer.handlePOSTRequest(HttpProcessor p, StreamReader inputData) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 460
+   в FS_TI_MicroService.classes.HttpProcessor.handlePOSTRequest() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 192
+   в FS_TI_MicroService.classes.HttpProcessor.process() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 79
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:374
+got headers
+get post data start
+starting Read, to_read=374
+read finished, numread=374
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:374
+got headers
+get post data start
+starting Read, to_read=374
+read finished, numread=374
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+Exception: System.Net.WebException: Время ожидания операции истекло
+   в System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   в System.Net.WebClient.UploadString(Uri address, String method, String data)
+   в FS_TI_MicroService.classes.MyHttpServer.post_fis_gia(String paramValue, HttpProcessor p) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 723
+   в FS_TI_MicroService.classes.MyHttpServer.handlePOSTRequest(HttpProcessor p, StreamReader inputData) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 460
+   в FS_TI_MicroService.classes.HttpProcessor.handlePOSTRequest() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 192
+   в FS_TI_MicroService.classes.HttpProcessor.process() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 79
+Exception: System.Net.WebException: Время ожидания операции истекло
+   в System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   в System.Net.WebClient.UploadString(Uri address, String method, String data)
+   в FS_TI_MicroService.classes.MyHttpServer.post_fis_gia(String paramValue, HttpProcessor p) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 723
+   в FS_TI_MicroService.classes.MyHttpServer.handlePOSTRequest(HttpProcessor p, StreamReader inputData) в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 460
+   в FS_TI_MicroService.classes.HttpProcessor.handlePOSTRequest() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 192
+   в FS_TI_MicroService.classes.HttpProcessor.process() в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\classes\WebServer.cs:строка 79
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:374
+got headers
+get post data start
+starting Read, to_read=374
+read finished, numread=374
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:532
+got headers
+get post data start
+starting Read, to_read=532
+read finished, numread=532
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP/1.1
+readHeaders()
+header: Host:127.0.0.1:17301
+header: Accept:*/*
+header: Content-Type:text/xml; charset=utf-8
+header: Content-Length:533
+got headers
+get post data start
+starting Read, to_read=533
+read finished, numread=533
+get post data end
+POST request: /fisgia
+starting: POST /fisgia HTTP

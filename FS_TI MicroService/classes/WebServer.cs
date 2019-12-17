@@ -719,9 +719,10 @@ namespace FS_TI_MicroService.classes
             string link = Program.cfg.fis.host + HttpUtility.ParseQueryString(paramValue).Get("link");
             WebClient cl = new WebClient();
             cl.Encoding = Encoding.UTF8;
-            cl.Headers["Content-Type"] = "text/xml";
+            cl.Headers["Content-Type"] = "text/xml; charset=utf-8";
+            //System.IO.File.WriteAllText(@Program.curDirectory + "\\debug.txt", HttpUtility.ParseQueryString(paramValue).Get("request"));
             var data = cl.UploadString(link, HttpUtility.ParseQueryString(paramValue).Get("request"));
-          
+
             if (!data.Equals(""))
             {
                 p.outputStream.Write(data);

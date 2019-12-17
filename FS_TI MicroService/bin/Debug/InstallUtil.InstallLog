@@ -51,3 +51,37 @@ System.InvalidOperationException: Невозможно открыть диспе
 Этап фиксации выполнен успешно.
 
 Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe.
+Данный файл находится в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Имя учетной записи задано неверно или не существует, или же неверен указанный пароль
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe.
+Данный файл находится в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe.
+Данный файл находится в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe.
+Данный файл находится в S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.

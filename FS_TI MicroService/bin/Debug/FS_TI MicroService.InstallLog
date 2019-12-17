@@ -63,3 +63,41 @@ System.Security.SecurityException: Запрошенный доступ к рее
    logtoconsole = 
    logfile = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
    assemblypath = D:\Bpeg\Documents\Visual Studio 2015\Projects\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Выполняется установка сборки 'S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Устанавливается служба FS and TI microserver...
+Служба FS and TI microserver успешно установлена.
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Устанавливается служба FS and TI microserver...
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Выполняется откат для сборки 'S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Восстанавливается исходное состояние журнала событий для источника FS and TI microserver.
+Восстанавливается исходное состояние журнала событий для источника FS and TI microserver.
+Выполняется удаление службы FS and TI microserver из системы...
+Служба FS and TI microserver успешно удалена из системы.
+Выполняется установка сборки 'S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Устанавливается служба FS and TI microserver...
+Служба FS and TI microserver успешно установлена.
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Устанавливается служба FS and TI microserver...
+Создается исходный EventLog FS and TI microserver в журнале Application...
+Выполняется откат для сборки 'S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.InstallLog
+   assemblypath = S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+Восстанавливается исходное состояние журнала событий для источника FS and TI microserver.
+Восстанавливается исходное состояние журнала событий для источника FS and TI microserver.
+Выполняется удаление службы FS and TI microserver из системы...
+Служба FS and TI microserver успешно удалена из системы.
