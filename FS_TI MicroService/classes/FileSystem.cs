@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FsrmLib;
+using System;
 using System.IO;
 using System.Security.AccessControl;
 
@@ -232,7 +233,7 @@ namespace FS_TI_MicroService.classes
             return rules;
         }
 
-        private static string getPathStudentG(string login)
+        public static string getPathStudentG(string login)
         {
             string year = "20" + login.Substring(0, 2);
             string path = studentsFolder + year + "\\" + login;
@@ -249,6 +250,33 @@ namespace FS_TI_MicroService.classes
 
         }
 
+
+        public decimal getQuota(String path)
+        {
+
+            FsrmLib.FsrmQuotaManager qmg = new FsrmLib.FsrmQuotaManager();
+            IFsrmQuota q = qmg.GetQuota(path);
+
+            return q.QuotaLimit;
+        }
+
+
+        public decimal getUsedQuota(String path)
+        {
+            FsrmLib.FsrmQuotaManager qmg = new FsrmLib.FsrmQuotaManager();
+            IFsrmQuota q = qmg.GetQuota(path);
+
+            return q.QuotaLimit > 0 ? (int)Math.Round(q.QuotaUsed / q.QuotaLimit * 100, 0) : 0;
+        }
+
+        public void setQuota(String path, int limit)
+        {
+            FsrmLib.FsrmQuotaManager qmg = new FsrmLib.FsrmQuotaManager();
+            IFsrmQuota q = qmg.GetQuota(path);
+            q.QuotaLimit = limit;
+            q.Commit();
+
+        }
 
     }
 }

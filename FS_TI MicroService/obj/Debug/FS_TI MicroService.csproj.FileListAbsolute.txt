@@ -43,3 +43,16 @@ S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\o
 S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CopyComplete
 S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
 S:\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.AssemblyReference.cache
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\Interop.FsrmLib.dll
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.ResolveComReference.cache
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI_MicroService.ProjectInstaller.resources
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.GenerateResource.cache
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CoreCompileInputs.cache
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.pdb
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.pdb
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.dll
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CopyComplete

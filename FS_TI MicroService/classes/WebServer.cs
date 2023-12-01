@@ -342,33 +342,40 @@ namespace FS_TI_MicroService.classes
             }
 
             p.writeSuccess();
-            if (pathsegments[1].ToLower().Replace("/", "") == "student")
+            String category = pathsegments[1].ToLower().Replace("/", "");
+            String task = pathsegments[2].ToLower().Replace("/", "");
+
+            if (category == "student")
             {
-                if (pathsegments[2].ToLower().Replace("/", "") == "folder_permissions")
+                if (task == "folder_permissions")
                 {
                     get_student_folder_permissions(querystring, p);
                 }
-                else if (pathsegments[2].ToLower().Replace("/", "") == "traffic")
+                else if (task == "traffic")
                 {
                     get_student_traffic(querystring, p);
                 }
-                else if (pathsegments[2].ToLower().Replace("/", "") == "folder")
+                else if (task == "folder")
                 {
                     get_student_folder(querystring, p);
                 }
+                else if (task == "quota")
+                {
+                    get_student_quota(querystring, p);
+                }
             }
-            else if (pathsegments[1].ToLower().Replace("/", "") == "teacher")
+            else if (category == "teacher")
             {
-                if (pathsegments[2].ToLower().Replace("/", "") == "traffic")
+                if (task == "traffic")
                 {
                     get_teacher_traffic(querystring, p);
                 }
-                else if (pathsegments[2].ToLower().Replace("/", "") == "folder")
+                else if (task == "folder")
                 {
                     get_employee_folder(querystring, p);
                 }
             }
-            else if (pathsegments[1].ToLower().Replace("/", "") == "help")
+            else if (task == "help")
             {
                 p.outputStream.WriteLine("<h2>Example usage:<h2>");
 
@@ -431,9 +438,14 @@ namespace FS_TI_MicroService.classes
             p.writeSuccess();
             if (pathsegments[1].ToLower().Replace("/", "") == "student")
             {
-                if (pathsegments[2].ToLower().Replace("/", "") == "folder")
+                String task = pathsegments[2].ToLower().Replace("/", "");
+                if (task == "folder")
                 {
                     post_student_folder(param, p);
+                }
+                else if (task == "quota")
+                {
+                    post_student_quota(param, p);
                 }
             }
             else if (pathsegments[1].ToLower().Replace("/", "") == "teacher")
@@ -765,6 +777,57 @@ namespace FS_TI_MicroService.classes
             }
             var serializer = JsonConvert.SerializeObject(result);
             p.outputStream.WriteLine(serializer);
+        }
+
+        private void get_student_quota(string paramValue, HttpProcessor p)
+        {
+            string logins = HttpUtility.ParseQueryString(paramValue).Get("logins");
+
+            if (logins == null)
+            {
+                p.outputStream.WriteLine("Error params");
+                return;
+            }
+
+            string[] loginsArr = logins.Split(',');
+
+
+            Dictionary<string, object> result = new Dictionary<string, object>();
+            for (int i = 0; i < loginsArr.Count(); i++)
+            {
+                string path = FileSystem.getPathStudentG(loginsArr[i]);
+                Dictionary<string, decimal> folder = new Dictionary<string, decimal>();
+                folder.Add("quota", fs.getQuota(path));
+                folder.Add("used", fs.getUsedQuota(path));
+                result.Add(loginsArr[i], folder);
+            }
+            var serializer = JsonConvert.SerializeObject(result);
+            p.outputStream.WriteLine(serializer);
+
+        }
+
+        private void post_student_quota(string paramValue, HttpProcessor p)
+        {
+            string logins = HttpUtility.ParseQueryString(paramValue).Get("logins");
+
+            if (logins == null)
+            {
+                p.outputStream.WriteLine("Error params");
+                return;
+            }
+
+            string[] loginsArr = logins.Split(',');
+
+
+            Dictionary<string, object> result = new Dictionary<string, object>();
+            for (int i = 0; i < loginsArr.Count(); i++)
+            {
+                string path = FileSystem.getPathStudentG(loginsArr[i]);
+                Dictionary<string, int> folder = new Dictionary<string, int>();
+            }
+            var serializer = JsonConvert.SerializeObject(result);
+            p.outputStream.WriteLine(serializer);
+
         }
 
 
