@@ -55,4 +55,6 @@ S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroServi
 S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.pdb
 S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.dll
 S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\Newtonsoft.Json.xml
-S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.csproj.CopyComplete
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\bin\Debug\FS_TI MicroService.exe.config
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI Mi.D674C993.Up2Date
+S:\web\projects\journal\extension\TIFSserver\FS_TI MicroService\FS_TI MicroService\obj\Debug\FS_TI MicroService.exe.config
